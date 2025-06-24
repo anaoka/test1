@@ -1,1 +1,1 @@
-{'ver1':'21', 'ver2':'95', 'ver3':'\n• [Important Update Juba22]\n• Please Download And Install Latest Version To Keep Your WhatsApp Working Well\n• [تحديث جديد مهم]\n• يرجى تنزيل وتثبيت أحدث إصدار للحفاظ على عمل واتساب بشكل جيد\n' , 'dli':'https://youtube.com/@juba22'}
+{'ver1':'21', 'ver2':'96', 'ver3':'\n• [Important Update Juba22]\n• Please Download And Install Latest Version To Keep Your WhatsApp Working Well\n• [تحديث جديد مهم]\n• يرجى تنزيل وتثبيت أحدث إصدار للحفاظ على عمل واتساب بشكل جيد\n' , 'dli':'https://youtu.be/AUItIWr6hxI'}
